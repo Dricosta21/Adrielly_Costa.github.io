@@ -92,7 +92,7 @@ body {
     display: flex;
     align-items: center;
     padding: 2rem;
-    padding-top: 110px; /* Adicionado para evitar corte pelo header fixo */
+    padding-top: 90px; /* Adicionado para evitar corte pelo header fixo */
     background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
 }
 
@@ -549,3 +549,4 @@ body {
 html {
     scroll-behavior: smooth;
 }
+
