@@ -92,7 +92,7 @@ body {
     display: flex;
     align-items: center;
     padding: 2rem;
-    padding-top: 90px; /* Adicionado para evitar corte pelo header fixo */
+    padding-top: 90px;
     background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
 }
 
@@ -491,7 +491,7 @@ body {
 
     .principal {
         padding: 1rem;
-        padding-top: 110px; /* Garante espaço para o header no mobile */
+        padding-top: 90px;
     }
     .principal h1 {
         font-size: 2rem;
@@ -549,4 +549,5 @@ body {
 html {
     scroll-behavior: smooth;
 }
+
 
